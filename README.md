@@ -101,60 +101,112 @@ Postman (for API testing)
 ------------------------------------------------------------------------Project Structure-------------------------------------------------------------------------------------------------------------------------
 
 employee-attendance/
+
 │
 ├── backend/
+
 │   ├── config/
+
 │   │   └── db.js
+
 │   ├── controllers/
+
 │   │   ├── attendanceController.js
+
 │   │   └── authController.js
+
 │   ├── middleware/
+
 │   │   ├── auth.js
+
 │   │   ├── errorHandler.js
+
 │   │   └── role.js
+
 │   ├── models/
+
 │   │   ├── Attendance.js
+
 │   │   └── User.js
+
 │   ├── routes/
+
 │   │   ├── attendance.js
+
 │   │   └── auth.js
+
 │   ├── tools/
+
 │   │   └── hashPlainPassword.js
+
 │   ├── seed/
+
 │   │   └── seed.js
+
 │   ├── server.js
+
 │   └── .env
+
 │
 ├── frontend/
+
 │   ├── public/
+
 │   └── src/
+
 │       ├── app/
+
 │       │   └── store.js
+
 │       ├── components/
+
 │       │   ├── Employee/
+
 │       │   │   ├── CalendarView.jsx
+
 │       │   │   ├── Dashboard.jsx
+
 │       │   │   ├── MarkAttendance.jsx
+
 │       │   │   ├── MyHistory.jsx
+
 │       │   │   ├── Profile.jsx
+
 │       │   │   └── StatusBadge.jsx
+
 │       │   └── Manager/
+
 │       │       ├── AllEmployees.jsx
+
 │       │       ├── ManagerDashboard.jsx
+
 │       │       ├── Reports.jsx
+
 │       │       ├── TeamCalendar.jsx
+
 │       │       └── TeamDashboard.jsx
+
 │       ├── features/
+
 │       │   ├── attendance/
+
 │       │   └── auth/
+
 │       ├── routes/
+
 │       ├── utils/
+
 │       │   └── api.js
+
 │       ├── App.js
+
 │       ├── index.js
+
 │       └── tailwind.config.js
+
 │
 ├── package.json
+
 └── README.md
 -------------------------------------------------------------------------How to Run Application------------------------------------------------------------------------------------------------------------------
 
