@@ -6,6 +6,7 @@ Description : A full-stack web application for managing employee attendance with
 Built using React js, Node.js, Express, MongoDB, and Tailwind CSS.
 -------------------------------------------------------------------------Username and Password---------------------------------------------------------------------------------------------------------------------
 Manager
+
 username:alice.manager@example.com
 password:password123
 Employee
