@@ -9,6 +9,15 @@ Contact No : 9381209533
 Description : A full-stack web application for managing employee attendance with features like check-in, check-out, admin dashboard, reports, and CSV export.
 
 Built using React js, Node.js, Express, MongoDB, and Tailwind CSS.
+----------------------------------------------------------------------------After git clone -----------------------------------------------------------------------------------------------------------------------
+
+*Run these two files  otherwise it wouldn't work
+In backend run
+seed/seed.js
+and
+tools/hashPlainPasswords.js        
+(Because passwords are hashed JWT used in thse project)
+
 
 -------------------------------------------------------------------------Username and Password---------------------------------------------------------------------------------------------------------------------
 
@@ -368,7 +377,12 @@ const managerData = {
   <img width="1800" height="878" alt="image" src="https://github.com/user-attachments/assets/805367d6-b8ad-4042-a900-64c0f7f002a3" />
   
   <img width="1897" height="1079" alt="image" src="https://github.com/user-attachments/assets/0cf85968-fd6a-41f0-b350-717e8864b439" />
-  
+
+  <img width="1784" height="1005" alt="image" src="https://github.com/user-attachments/assets/fcad0552-d051-4269-a4c0-45a9777eae17" />
+
+  <img width="1763" height="1005" alt="image" src="https://github.com/user-attachments/assets/a02c815d-637e-4099-9935-e488e56c63f9" />
+
+
 
 
   
