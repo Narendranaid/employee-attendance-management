@@ -12,10 +12,15 @@ Built using React js, Node.js, Express, MongoDB, and Tailwind CSS.
 ----------------------------------------------------------------------------After git clone -----------------------------------------------------------------------------------------------------------------------
 
 *Run these two files  otherwise it wouldn't work
+
 In backend run
+
 seed/seed.js
+
 and
-tools/hashPlainPasswords.js        
+
+tools/hashPlainPasswords.js 
+
 (Because passwords are hashed JWT used in thse project)
 
 
