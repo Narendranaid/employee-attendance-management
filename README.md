@@ -348,4 +348,35 @@ const managerData = {
   Like these I have created 22 employees and marking 15days attendance for each Employee and each employee will be related to the following departments 
   
   const departments = ['Engineering', 'Sales', 'Support'];
+
+  
+  Output files
+  
+  ------------
+  <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/3146677e-591d-4ac0-985d-587962d267d2" />
+  
+  <img width="903" height="688" alt="image" src="https://github.com/user-attachments/assets/120bb074-3bad-4c3b-8f51-f444f5eb9d49" />
+  
+  <img width="1886" height="913" alt="image" src="https://github.com/user-attachments/assets/a055af8d-6c2a-4387-a2a4-0059cdc46ba8" />
+  
+  <img width="854" height="537" alt="image" src="https://github.com/user-attachments/assets/131eae03-513d-418f-927d-11631fe3f738" />
+  
+  <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/9bd21afc-d409-41cc-9b84-27e700533a5b" />
+  
+  <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/716fee1c-efef-41a5-9991-72128051b1af" />
+  
+  <img width="1800" height="878" alt="image" src="https://github.com/user-attachments/assets/805367d6-b8ad-4042-a900-64c0f7f002a3" />
+  
+  <img width="1897" height="1079" alt="image" src="https://github.com/user-attachments/assets/0cf85968-fd6a-41f0-b350-717e8864b439" />
+  
+
+
+  
+
+
+
+  
+
+
+
   
